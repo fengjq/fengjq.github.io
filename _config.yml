@@ -1,0 +1,14 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://fengjq.github.io
+highlighter: pygments
+name: F_Coder
+description: F_Coder | Do it.
+author: F_Coder
+email: fengjq3@163.com
+duoshuo: fengjq
+weibo: 2314152891
+hub: F—Coder
+safe: true
+paginate: 100
+about: "职业BUG写手"
