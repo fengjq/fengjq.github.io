@@ -1,9 +1,9 @@
-###[飘过的小牛](http://github.thinkingbar.com)
+###[F_Coder](https://github.com/fengjq/fengjq.github.io)
 
 ---
 
-本博客运行于 [Jekyll](http://jekyllrb.com) @ [GitHub](http://github.com/niushuai/reading)，博客模板修改自 [WebFrog](http://webfrogs.me/) 的博客。
+本博客运行于 [Jekyll](http://jekyllrb.com) @ [GitHub](https://github.com/fengjq/fengjq.github.io)，博客模板修改自 [飘过的小牛](http://github.thinkingbar.com) 的博客。
 
-飘过的小牛
+F_Coder
 
-2014-03-20
+2015-06-12
