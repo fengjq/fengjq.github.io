@@ -18,7 +18,7 @@ id returnValue = [someObject messageName:parameter];
 
 {% highlight objective-c %}
 
-void objc_msgSend(id self,SEL cmd,...)
+id objc_msgSend(id self,SEL cmd,...)
 
 {% endhighlight objective-c %}
 
